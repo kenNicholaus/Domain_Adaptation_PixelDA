@@ -1,2 +1,4 @@
 # Domain_Adaptation_PixelDA
-transfer domains using fashion mnist, mnist-m and mnist images
+Demo domain adaptation using fashion mnist, mnist-m and mnist images
+
+![Domain Adaptation](pixelDA.png)
